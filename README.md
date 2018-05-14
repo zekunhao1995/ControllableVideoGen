@@ -8,6 +8,7 @@ Code for "Controllable Video Generation with Sparse Trajectories", CVPR'18.
 
 ![compare](https://khz1995.github.io/Controllable_imgs/Controllable_compare.gif)
 ![compare](https://raw.githubusercontent.com/zekunhao1995/ControllableVideoGen/assets/Controllable_imgs/Controllable_compare.gif)
+[[https://github.com/zekunhao1995/ControllableVideoGen/blob/master/Controllable_imgs/Controllable_compare.gif|alt=compare]]
 ![push](https://khz1995.github.io/Controllable_imgs/Controllable_rp.gif)
 ![ucf](https://khz1995.github.io/Controllable_imgs/Controllable_ucf_pushups.gif)
 ![kitti](https://khz1995.github.io/Controllable_imgs/Controllable_kitti.gif)
